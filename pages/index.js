@@ -1,9 +1,9 @@
 import Head from 'next/head'
-import Banner from '../Components/Banner/Banner'
-import Footer from '../Components/Footer/Footer'
-import Header from '../Components/Header/Header'
-import HowItWorks from '../Components/HowItsWorks/HowItWorks'
-import WhyUs from '../Components/WhyUs/WhyUs'
+import Banner from '../Components/Banner'
+import Footer from '../Components/Footer'
+import Header from '../Components/Header'
+import HowItWorks from '../Components/HowItWorks'
+import WhyUs from '../Components/WhyUs'
 
 export default function Home() {
   return (

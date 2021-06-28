@@ -6,7 +6,7 @@ import MenuBookOutlinedIcon from "@material-ui/icons/MenuBookOutlined";
 import CreditCardOutlinedIcon from "@material-ui/icons/CreditCardOutlined";
 import Link from "next/link";
 // import ReactLogo from "../Header/svg (17).svg";
-import LogoSvg from "../SVG/LogoSvg";
+import LogoSvg from "./LogoSvg";
 // import svg_1 from '/svg(17).svg'
 
 function Header() {
